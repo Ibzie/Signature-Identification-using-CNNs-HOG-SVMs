@@ -139,23 +139,4 @@ jupyter notebook main.ipynb
    - Extract SIFT features and train SVM classifier
    - Compare and visualize the results
 
-## Future Work
-
-Potential areas for future exploration:
-- Ensemble methods combining multiple feature extraction techniques
-- More sophisticated deep learning architectures
-- One-shot or few-shot learning approaches to handle limited training data
-- Hybrid approaches combining hand-crafted features with deep learning
-
-## Citation
-
-If you use this code or find this project helpful, please cite the paper:
-
-```
-@article{signature_verification_comparison,
-  title={Comparative Analysis of Feature Extraction Methods for Signature Verification},
-  author={Author},
-  journal={},
-  year={2025}
-}
 ```
