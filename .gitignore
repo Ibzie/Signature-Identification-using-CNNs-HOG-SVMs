@@ -177,6 +177,4 @@ CNN/cnn_signature_model.keras
 CNN/hog_svm_model.pkl
 CNN/sift_svm_model.pkl
 
-/LSTM
-/CNN
-/Assignment2
+
