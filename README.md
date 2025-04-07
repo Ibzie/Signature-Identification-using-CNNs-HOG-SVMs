@@ -138,5 +138,3 @@ jupyter notebook main.ipynb
    - Extract HOG features and train SVM classifier
    - Extract SIFT features and train SVM classifier
    - Compare and visualize the results
-
-```
